@@ -1,6 +1,6 @@
-# Brawler Bearz NFT
+# Brawler Bearz Blockchain
 
-This project is the solidity codebase for the Brawler Bearz project
+Public facing solidity contracts of the BB ecosystem
 
 ### Install
 `npm i`
